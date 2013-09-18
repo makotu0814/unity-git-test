@@ -7,5 +7,4 @@ public class Script : MonoBehaviour {
 	void Start () {
         string test = "";
 	}
-
 }
