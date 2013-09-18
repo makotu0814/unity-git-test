@@ -5,7 +5,7 @@ public class Script : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+        string test = "";
 	}
 
 }
